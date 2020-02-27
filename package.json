@@ -1,0 +1,25 @@
+{
+    "name": "configuracionbasicaproyectots",
+    "version": "1.0.0",
+    "description": "Primero hay que correr el comando:",
+    "main": "index.js",
+    "dependencies": {
+        "nodemon": "^2.0.2",
+        "request": "^2.88.2",
+        "request-promise": "^4.2.5"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "start": "nodemon src/js/app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/JoseCarlosGlez/configuracionBasicaProyectoTS.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/JoseCarlosGlez/configuracionBasicaProyectoTS/issues"
+    },
+    "homepage": "https://github.com/JoseCarlosGlez/configuracionBasicaProyectoTS#readme"
+}
